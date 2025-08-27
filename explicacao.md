@@ -52,3 +52,11 @@ explicito => define ele explicitamente no container
 Implicito => criado automaticamente para preencher
 
 grid-column => vai definir inicio de fim da linha
+
+grid-row => define quai linha serão ocupadas pelo grid item  
+
+grid-area => é um atalho para grid row e grid-column => usando com frequencia com grid-template-areas
+
+justify-self => Justifica o item do grid em relação ao eixo x (horizontal). Justifica em relação a célula
+
+align-self => Justifica o item do grid em relação ao eixo y (vertical). Alinha em relação a célula
